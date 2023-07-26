@@ -21,7 +21,7 @@ console.log('/*            Ejercicio b           */ ')
 console.log('/* ---------------------------------*/ ')
 
 var cantidadDeGatos = 5;
-var cantidadDePasos = 3;
+var cantidadDePasos = 7;
 var emoji = ""
 
 for(x = 1; x <= cantidadDeGatos; x++) {

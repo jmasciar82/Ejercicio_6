@@ -4,7 +4,7 @@ console.log('/*            Ejercicio a           */ ')
 console.log('/* ---------------------------------*/ ')
 var cantidadDeGatos  = 10 
 var x = 0
-while (x <= 10) {
+while (x <= cantidadDeGatos) {
     x++    
     console.log(`Gato #${x}: 😺`);
     if(x == cantidadDeGatos ) break
